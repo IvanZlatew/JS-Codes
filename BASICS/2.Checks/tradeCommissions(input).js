@@ -35,4 +35,4 @@ function tradeCommissions(input) {
         }
     }
 }
-tradeCommissions([`Varna`, `-503874.50`])
+tradeCommissions([`Varna`, `503874.50`])
